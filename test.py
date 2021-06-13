@@ -1,1 +1,3 @@
-print('test commit and push')
+import numpy as np
+
+a = np.random.randint(1, 10)
